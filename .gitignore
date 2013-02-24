@@ -1,0 +1,8 @@
+DemoDbUnit/target/**
+DemoDbUnit/bin/**
+DemoDbUnit/build/**
+DemoDbUnit/dist/**
+DemoDbUnit/lib/**
+DemoDbUnit/.classpath
+DemoDbUnit/.eclipse
+DemoDbUnit/.project
